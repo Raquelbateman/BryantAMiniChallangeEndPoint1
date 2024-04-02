@@ -31,3 +31,4 @@ C:\Users\Alicia\Academy\Level 2\BryantAMiniChallange1\obj\Debug\net8.0\refint\Br
 C:\Users\Alicia\Academy\Level 2\BryantAMiniChallange1\obj\Debug\net8.0\BryantAMiniChallange1.pdb
 C:\Users\Alicia\Academy\Level 2\BryantAMiniChallange1\obj\Debug\net8.0\BryantAMiniChallange1.genruntimeconfig.cache
 C:\Users\Alicia\Academy\Level 2\BryantAMiniChallange1\obj\Debug\net8.0\ref\BryantAMiniChallange1.dll
+C:\Users\Alicia\Academy\Level 2\BryantAMiniChallange1\obj\Debug\net8.0\BryantAMiniChallange1.sourcelink.json
