@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BryantAMiniChallange1.props" />
+</Project>

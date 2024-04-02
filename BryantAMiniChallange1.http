@@ -1,0 +1,6 @@
+@BryantAMiniChallange1_HostAddress = http://localhost:5087
+
+GET {{BryantAMiniChallange1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
