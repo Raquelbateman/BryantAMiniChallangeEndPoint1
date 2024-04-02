@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BryantAMiniChallange1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f12b5565d07d5d972543ffde1504b198d98a46e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BryantAMiniChallange1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BryantAMiniChallange1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
