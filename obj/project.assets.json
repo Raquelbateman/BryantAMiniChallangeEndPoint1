@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallange1\\BryantAMiniChallange1.csproj",
+      "projectUniqueName": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallenge1_Endpoint\\BryantAMiniChallange1.csproj",
       "projectName": "BryantAMiniChallange1",
-      "projectPath": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallange1\\BryantAMiniChallange1.csproj",
+      "projectPath": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallenge1_Endpoint\\BryantAMiniChallange1.csproj",
       "packagesPath": "C:\\Users\\Alicia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallange1\\obj\\",
+      "outputPath": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallenge1_Endpoint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alicia\\AppData\\Roaming\\NuGet\\NuGet.Config"
